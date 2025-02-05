@@ -6,7 +6,7 @@ library(NOOA)
 input_data_path <- "../Data/Input/"
 output_data_path <- "../Data/Output/"
 recording_storage_path <- "../Recordings"
-GBIF_dataset_name <- "GBIF_animal_recordings_in_Europe_2025-01-20"
+GBIF_dataset_name <- "GBIF_ort_hem_recordings_in_Europe_2025-02-05"
 
 # Setting a 2-minute timeout to allow enough time to download heavy recordings 
 options(timeout = 120)
