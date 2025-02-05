@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cb6e66f1-3056-404d-a341-bb856762c57c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/hnheni</alternateIdentifier>
+        <alternateIdentifier>10.15156/bio/587439</alternateIdentifier>
+        <alternateIdentifier>cb6e66f1-3056-404d-a341-bb856762c57c</alternateIdentifier>
+        <alternateIdentifier>https://plutof.ut.ee/ipt/resource?r=naturesound</alternateIdentifier>
+        <title>My naturesounds - nature observations with sound recordings</title>
+        <creator>
+            <individualName>
+                <givenName>Veljo</givenName>
+                <surName>Runnel</surName>
+            </individualName>
+            <positionName>University of Tartu Natural History Museum and Botanical Garden</positionName>
+            <electronicMailAddress>veljo.runnel@ut.ee</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Veljo</givenName>
+                <surName>Runnel</surName>
+            </individualName>
+            <positionName>University of Tartu Natural History Museum and Botanical Garden</positionName>
+            <electronicMailAddress>veljo.runnel@ut.ee</electronicMailAddress>
+        </metadataProvider>
+        <language>ENGLISH</language>
+        <abstract>
+            Sound-based taxon occurrences which have been provided by citizen scientists through PlutoF workbench and connected mobile application &amp;#34;Minu loodusheli&amp;#34; (My naturesound). Every occurrence can be validated via accompanying sound recording.
+
+Mostly opportunistic observations by citizen scientists using mobile application for annotating coordinates and time of observation and adding sound recording to the observation.
+
+All observations are provided with sound recording which is used to identify the species.
+
+
+Observation is recorded with mobile app &amp;#34;Minu loodusheli&amp;#34; (My naturesound), observation record with sound files is transferred to PlutoF cloud database. Observation is moderated within PlutoF system by appointed persons
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://plutof.ut.ee</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://s3.hpc.ut.ee/plutof-public/original/1328e598-5081-4877-8aca-d2e2d9984952.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <givenName>Veljo</givenName>
+                <surName>Runnel</surName>
+            </individualName>
+            <positionName>University of Tartu Natural History Museum and Botanical Garden</positionName>
+            <electronicMailAddress>veljo.runnel@ut.ee</electronicMailAddress>
+        </contact>
+
+            <project >
+                <title></title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-02-05T14:53:20Z</dateStamp>
+                <citation>Runnel V. My naturesounds - nature observations with sound recordings. PlutoF. Occurrence dataset https://doi.org/10.15468/hnheni accessed via GBIF.org on 2025-02-05.</citation>
+                <resourceLogoUrl>https://s3.hpc.ut.ee/plutof-public/large/50dfcae2-d7bd-4f5b-b234-986db1a99a2d.jpg</resourceLogoUrl>
+                <formationPeriod>January 1, 1980 - November 4, 2015</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

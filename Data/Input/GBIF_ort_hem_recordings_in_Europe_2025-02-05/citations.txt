@@ -1,0 +1,17 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+SysTax. DORSA - German Orthoptera Collections. Occurrence dataset https://doi.org/10.15468/bdwtd8 accessed via GBIF.org on 2025-02-05.
+Museum für Naturkunde Berlin. Animal Sound Archive. Occurrence dataset https://doi.org/10.15468/0bpalr accessed via GBIF.org on 2025-02-05.
+Inventaire National du Patrimoine Naturel (2018). Système d'Information sur la Nature et les Paysages d'Ile de France - Données du/de la naturaliste Houpert Sylvain provenant de la base de donnée du SINP Île-de-France CETTIA. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/mgpopg accessed via GBIF.org on 2025-02-05.
+Vellinga W (2024). Xeno-canto - Orthoptera sounds from around the world. Xeno-canto Foundation for Nature Sounds. Occurrence dataset https://doi.org/10.15468/76yp6j accessed via GBIF.org on 2025-02-05.
+Leibniz Institute for the Analysis of Biodiversity Change (LIB) (2018). ZFMK Sound Laboratory. Occurrence dataset https://doi.org/10.15468/yhye2h accessed via GBIF.org on 2025-02-05.
+Inventaire National du Patrimoine Naturel (2018). Système d'Information sur la Nature et les Paysages d'Ile de France - Données de l'association RENARD provenant de la base de donnée du SINP Île-de-France CETTIA. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/izjsyw accessed via GBIF.org on 2025-02-05.
+Abarenkov K. PlutoF platform reference-based occurrences. PlutoF. Occurrence dataset https://doi.org/10.15468/e15jve accessed via GBIF.org on 2025-02-05.
+Inventaire National du Patrimoine Naturel (2018). Système d'Information sur la Nature et les Paysages d'Ile de France - Données du naturaliste DEHALLEUX Axel provenant de la base de donnée du SINP Île-de-France CETTIA. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/7eccel accessed via GBIF.org on 2025-02-05.
+Observation.org (2025). Observation.org, Nature data from around the World. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2025-02-05.
+SLU Artdatabanken (2025). Artportalen. Version 92.403. Occurrence dataset https://doi.org/10.15468/kllkyl accessed via GBIF.org on 2025-02-05.
+Leibniz Institute for the Analysis of Biodiversity Change (LIB) (2018). ZFMK DORSA. Occurrence dataset https://doi.org/10.15468/iihdbo accessed via GBIF.org on 2025-02-05.
+Staatliche Naturwissenschaftliche Sammlungen Bayerns. IBF Monitoring of Orthoptera. Occurrence dataset https://doi.org/10.15468/0hkfpf accessed via GBIF.org on 2025-02-05.
+iNaturalist contributors, iNaturalist (2025). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2025-02-05.
+Runnel V. My naturesounds - nature observations with sound recordings. PlutoF. Occurrence dataset https://doi.org/10.15468/hnheni accessed via GBIF.org on 2025-02-05.
+Estonian Naturalists’ Society. Estonian Naturalists’ Society. Occurrence dataset https://doi.org/10.15468/bmk3ab accessed via GBIF.org on 2025-02-05.
+Inventaire National du Patrimoine Naturel (2018). Système d'Information sur la Nature et les Paysages d'Ile de France - Etude faunistique d'une zone humide à Château-Landon - 77. UMS PatriNat (OFB-CNRS-MNHN), Paris. Occurrence dataset https://doi.org/10.15468/vk2t0i accessed via GBIF.org on 2025-02-05.

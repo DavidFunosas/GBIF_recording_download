@@ -1,0 +1,32 @@
+Dataset: DORSA - German Orthoptera Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Animal Sound Archive 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Système d'Information sur la Nature et les Paysages d'Ile de France - Données du/de la naturaliste Houpert Sylvain provenant de la base de donnée du SINP Île-de-France CETTIA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Xeno-canto - Orthoptera sounds from around the world 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZFMK Sound Laboratory 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Système d'Information sur la Nature et les Paysages d'Ile de France - Données de l'association RENARD provenant de la base de donnée du SINP Île-de-France CETTIA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: PlutoF platform reference-based occurrences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Système d'Information sur la Nature et les Paysages d'Ile de France - Données du naturaliste DEHALLEUX Axel provenant de la base de donnée du SINP Île-de-France CETTIA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Artportalen 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ZFMK DORSA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: IBF Monitoring of Orthoptera 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: My naturesounds - nature observations with sound recordings 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Estonian Naturalists’ Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Système d'Information sur la Nature et les Paysages d'Ile de France - Etude faunistique d'une zone humide à Château-Landon - 77 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
