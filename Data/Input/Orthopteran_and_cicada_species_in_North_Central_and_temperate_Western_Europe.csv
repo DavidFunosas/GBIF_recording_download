@@ -2,11 +2,11 @@ species,order,suborder,sound
 Acheta domesticus,Orthoptera,Ensifera,Stridulation
 Acrida ungarica mediterranea,Orthoptera,Caelifera,No
 Acrometopa italica,Orthoptera,Ensifera,Stridulation
-Acrotylus braudi,Orthoptera,Caelifera,Unknown
-Acrotylus fischeri,Orthoptera,Caelifera,Unknown
-Acrotylus insubricus braudi,Orthoptera,Caelifera,Unknown
-Acrotylus insubricus insubricus,Orthoptera,Caelifera,Unknown
-Acrotylus patruelis,Orthoptera,Caelifera,Unknown
+Acrotylus braudi,Orthoptera,Caelifera,Wing rattle
+Acrotylus fischeri,Orthoptera,Caelifera,Wing rattle
+Acrotylus insubricus braudi,Orthoptera,Caelifera,Wing rattle
+Acrotylus insubricus insubricus,Orthoptera,Caelifera,Wing rattle
+Acrotylus patruelis,Orthoptera,Caelifera,Wing rattle
 Aeropedellus variegatus variegatus,Orthoptera,Caelifera,Stridulation
 Aiolopus puissanti,Orthoptera,Caelifera,Wing rattle
 Aiolopus strepens,Orthoptera,Caelifera,Wing rattle
@@ -18,11 +18,13 @@ Anonconotus alpinus,Orthoptera,Ensifera,Stridulation
 Anonconotus apenninigenus,Orthoptera,Ensifera,Unknown
 Anonconotus baracunensis,Orthoptera,Ensifera,Stridulation
 Anonconotus ghilianii,Orthoptera,Ensifera,Stridulation
+Anonconotus italoaustriacus,Orthoptera,Ensifera,Stridulation
 Anonconotus ligustinus,Orthoptera,Ensifera,Stridulation
 Anonconotus mercantouri,Orthoptera,Ensifera,Stridulation
 Anonconotus occidentalis,Orthoptera,Ensifera,Stridulation
 Antaxius bouvieri,Orthoptera,Ensifera,Stridulation
 Antaxius chopardi,Orthoptera,Ensifera,Stridulation
+Antaxius difformis,Orthoptera,Ensifera,Stridulation
 Antaxius hispanicus,Orthoptera,Ensifera,Stridulation
 Antaxius pedestris pedestris,Orthoptera,Ensifera,Stridulation
 Antaxius sorrezensis,Orthoptera,Ensifera,Stridulation
@@ -33,10 +35,12 @@ Arcyptera brevipennis vicheti,Orthoptera,Caelifera,Stridulation
 Arcyptera fusca,Orthoptera,Caelifera,Stridulation
 Arcyptera kheili,Orthoptera,Caelifera,Stridulation
 Arcyptera microptera carpentieri,Orthoptera,Caelifera,Stridulation
+Arcyptera microptera microptera,Orthoptera,Caelifera,Stridulation
 Baratia sari,Orthoptera,Ensifera,Unknown
 Barbitistes constrictus,Orthoptera,Ensifera,Stridulation
 Barbitistes fischeri,Orthoptera,Ensifera,Stridulation
 Barbitistes obtusus,Orthoptera,Ensifera,Stridulation
+Barbitistes ocskayi,Orthoptera,Ensifera,Stridulation
 Barbitistes serricauda,Orthoptera,Ensifera,Stridulation
 Bicolorana bicolor bicolor,Orthoptera,Ensifera,Stridulation
 Bohemanella frigida,Orthoptera,Caelifera,Unknown
@@ -49,6 +53,7 @@ Calliptamus siciliae,Orthoptera,Caelifera,Wing rattle
 Calliptamus wattenwylianus,Orthoptera,Caelifera,Wing rattle
 Celes variabilis variabilis,Orthoptera,Caelifera,Unknown
 Chorthippus albomarginatus albomarginatus,Orthoptera,Caelifera,Stridulation
+Chorthippus alticola rammei,Orthoptera,Caelifera,Stridulation
 Chorthippus apricarius apricarius,Orthoptera,Caelifera,Stridulation
 Chorthippus biguttulus biguttulus,Orthoptera,Caelifera,Stridulation
 Chorthippus binotatus binotatus,Orthoptera,Caelifera,Stridulation
@@ -56,6 +61,7 @@ Chorthippus brunneus brunneus,Orthoptera,Caelifera,Stridulation
 Chorthippus cialancensis,Orthoptera,Caelifera,Stridulation
 Chorthippus corsicus corsicus,Orthoptera,Caelifera,Stridulation
 Chorthippus corsicus pascuorum,Orthoptera,Caelifera,Stridulation
+Chorthippus dichrous,Orthoptera,Caelifera,Stridulation
 Chorthippus dorsatus dorsatus,Orthoptera,Caelifera,Stridulation
 Chorthippus eisentrauti,Orthoptera,Caelifera,Stridulation
 Chorthippus jacobsi,Orthoptera,Caelifera,Stridulation
@@ -63,6 +69,7 @@ Chorthippus jucundus,Orthoptera,Caelifera,Stridulation
 Chorthippus jutlandica,Orthoptera,Caelifera,Stridulation
 Chorthippus mollis ignifer,Orthoptera,Caelifera,Stridulation
 Chorthippus mollis mollis,Orthoptera,Caelifera,Stridulation
+Chorthippus oschei pusztaensis,Orthoptera,Caelifera,Stridulation
 Chorthippus pullus,Orthoptera,Caelifera,Stridulation
 Chorthippus reissingeri,Orthoptera,Caelifera,Stridulation
 Chorthippus sampeyrensis,Orthoptera,Caelifera,Stridulation
@@ -71,18 +78,22 @@ Chorthippus saulcyi daimei,Orthoptera,Caelifera,Stridulation
 Chorthippus saulcyi moralesi,Orthoptera,Caelifera,Stridulation
 Chorthippus saulcyi saulcyi,Orthoptera,Caelifera,Stridulation
 Chorthippus saulcyi vicdessossi,Orthoptera,Caelifera,Stridulation
+Chorthippus smardai,Orthoptera,Caelifera,Stridulation
 Chorthippus vagans vagans,Orthoptera,Caelifera,Stridulation
 Chrysochraon dispar dispar,Orthoptera,Caelifera,Stridulation
-Cicada orni,Hemiptera,Cicadomorpha,Cymbalization
-Cicada barbara,Hemiptera,Cicadomorpha,Cymbalization
-Cicadatra atra,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta brevipennis litoralis,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta cantilatrix,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta cerdaniensis,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta fangoana,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta montana,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta petryi,Hemiptera,Cicadomorpha,Cymbalization
-Cicadetta sibillae,Hemiptera,Cicadomorpha,Cymbalization
+Cicada orni,Hemiptera,Cicadomorpha,Timbalization
+Cicada barbara,Hemiptera,Cicadomorpha,Timbalization
+Cicadatra atra,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta brevipennis brevipennis,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta brevipennis litoralis,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta cantilatrix,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta cerdaniensis,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta concinna concinna,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta fangoana,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta macedonica,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta montana,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta petryi,Hemiptera,Cicadomorpha,Timbalization
+Cicadetta sibillae,Hemiptera,Cicadomorpha,Timbalization
 Conocephalus conocephalus,Orthoptera,Ensifera,Stridulation
 Conocephalus dorsalis,Orthoptera,Ensifera,Stridulation
 Conocephalus fuscus,Orthoptera,Ensifera,Stridulation
@@ -93,7 +104,8 @@ Decticus albifrons,Orthoptera,Ensifera,Stridulation
 Decticus verrucivorus monspeliensis,Orthoptera,Ensifera,Stridulation
 Decticus verrucivorus verrucivorus,Orthoptera,Ensifera,Stridulation
 Diestrammena asynamora,Orthoptera,Ensifera,No
-Dimissalna dimissa,Hemiptera,Cicadomorpha,Cymbalization
+Dimissalna dimissa,Hemiptera,Cicadomorpha,Timbalization
+Dociostaurus brevicollis,Orthoptera,Caelifera,Stridulation
 Dociostaurus genei genei,Orthoptera,Caelifera,Stridulation
 Dociostaurus jagoi occidentalis,Orthoptera,Caelifera,Stridulation
 Dociostaurus maroccanus,Orthoptera,Caelifera,Stridulation
@@ -108,6 +120,7 @@ Epacromius tergestinus ponticus,Orthoptera,Caelifera,Unknown
 Epacromius tergestinus tergestinus,Orthoptera,Caelifera,Unknown
 Ephippiger diurnus cunii,Orthoptera,Ensifera,Stridulation
 Ephippiger diurnus diurnus,Orthoptera,Ensifera,Stridulation
+Ephippiger ephippiger,Orthoptera,Ensifera,Stridulation
 Ephippiger persicarius,Orthoptera,Ensifera,Stridulation
 Ephippiger provincialis,Orthoptera,Ensifera,Stridulation
 Ephippiger terrestris bormansi,Orthoptera,Ensifera,Stridulation
@@ -117,9 +130,11 @@ Epipodisma pedemontana waltheri,Orthoptera,Caelifera,No
 Euchorthippus chopardi,Orthoptera,Caelifera,Stridulation
 Euchorthippus declivus,Orthoptera,Caelifera,Stridulation
 Euchorthippus elegantulus,Orthoptera,Caelifera,Stridulation
+Euchorthippus pulvinatus,Orthoptera,Caelifera,Stridulation
 Eugryllodes pipiens,Orthoptera,Ensifera,Stridulation
-Eumodicogryllus bordigalensis,Orthoptera,Ensifera,Stridulation
+Eumodicogryllus bordigalensis bordigalensis,Orthoptera,Ensifera,Stridulation
 Eupholidoptera chabrieri chabrieri,Orthoptera,Ensifera,Stridulation
+Eupholidoptera schmidti,Orthoptera,Ensifera,Stridulation
 Eupholidoptera tyrrhenica,Orthoptera,Ensifera,Stridulation
 Euthystira brachyptera,Orthoptera,Caelifera,Stridulation
 Eyprepocnemis plorans plorans,Orthoptera,Caelifera,Unknown
@@ -139,9 +154,19 @@ Gryllotalpa septemdecimchromosomica,Orthoptera,Ensifera,Unknown
 Gryllotalpa vineae,Orthoptera,Ensifera,Stridulation
 Gryllus bimaculatus,Orthoptera,Ensifera,Stridulation
 Gryllus campestris,Orthoptera,Ensifera,Stridulation
+Isophya brevicauda,Orthoptera,Ensifera,Stridulation
+Isophya camptoxypha,Orthoptera,Ensifera,Stridulation
+Isophya costata,Orthoptera,Ensifera,Stridulation
 Isophya kraussii,Orthoptera,Ensifera,Stridulation
+Isophya modesta modesta,Orthoptera,Ensifera,Stridulation
+Isophya modestior,Orthoptera,Ensifera,Stridulation
+Isophya pienensis austromoravica,Orthoptera,Ensifera,Stridulation
+Isophya pienensis pienensis,Orthoptera,Ensifera,Stridulation
+Isophya pienensis sudetica,Orthoptera,Ensifera,Stridulation
+Isophya posthumoidalis,Orthoptera,Ensifera,Stridulation
 Isophya pyrenaea,Orthoptera,Ensifera,Stridulation
 Isophya rectipennis,Orthoptera,Ensifera,Stridulation
+Isophya stysi,Orthoptera,Ensifera,Stridulation
 Leptophyes albovittata,Orthoptera,Ensifera,Stridulation
 Leptophyes boscii,Orthoptera,Ensifera,Stridulation
 Leptophyes laticauda,Orthoptera,Ensifera,Stridulation
@@ -150,7 +175,7 @@ Locusta cinerascens cinerascens,Orthoptera,Caelifera,Wing rattle
 Locusta migratoria gallica,Orthoptera,Caelifera,Wing rattle
 Locusta migratoria migratoria,Orthoptera,Caelifera,Wing rattle
 Lucasinova nigromarginata,Orthoptera,Ensifera,Stridulation
-Lyristes plebejus,Hemiptera,Cicadomorpha,Cymbalization
+Lyristes plebejus,Hemiptera,Cicadomorpha,Timbalization
 Meconema meridionale,Orthoptera,Ensifera,Drumming
 Meconema thalassinum,Orthoptera,Ensifera,Drumming
 Mecostethus parapleurus parapleurus,Orthoptera,Caelifera,Unknown
@@ -165,10 +190,12 @@ Miramella alpina subalpina,Orthoptera,Caelifera,No
 Modicogryllus algirius algirius,Orthoptera,Ensifera,Stridulation
 Modicogryllus frontalis,Orthoptera,Ensifera,Stridulation
 Mogoplistes brunneus,Orthoptera,Ensifera,No
+Montana montana,Orthoptera,Ensifera,Stridulation
 Myrmecophilus acervorum,Orthoptera,Ensifera,No
 Myrmecophilus aequispina,Orthoptera,Ensifera,No
 Myrmecophilus fuscus,Orthoptera,Ensifera,No
 Myrmecophilus myrmecophilus,Orthoptera,Ensifera,No
+Myrmeleotettix antennatus,Orthoptera,Ensifera,Stridulation
 Myrmeleotettix maculatus maculatus,Orthoptera,Caelifera,Stridulation
 Nadigella formosanta,Orthoptera,Caelifera,Unknown
 Natula averni,Orthoptera,Ensifera,Stridulation
@@ -183,7 +210,7 @@ Oedipoda charpentieri,Orthoptera,Caelifera,Wing rattle
 Oedipoda coerulea,Orthoptera,Caelifera,Wing rattle
 Oedipoda fuscocincta morini,Orthoptera,Caelifera,Wing rattle
 Oedipoda germanica germanica,Orthoptera,Caelifera,Wing rattle
-Oligoglena tibialis,Hemiptera,Cicadomorpha,Cymbalization
+Oligoglena tibialis,Hemiptera,Cicadomorpha,Timbalization
 Omocestus antigai antigai,Orthoptera,Caelifera,Stridulation
 Omocestus antigai bellmanni,Orthoptera,Caelifera,Stridulation
 Omocestus defauti,Orthoptera,Caelifera,Stridulation
@@ -192,6 +219,7 @@ Omocestus petraeus,Orthoptera,Caelifera,Stridulation
 Omocestus raymondi,Orthoptera,Caelifera,Stridulation
 Omocestus rufipes,Orthoptera,Caelifera,Stridulation
 Omocestus viridulus,Orthoptera,Caelifera,Stridulation
+Pachytrachis gracilis,Orthoptera,Ensifera,Stridulation
 Pachytrachis striolatus,Orthoptera,Ensifera,Stridulation
 Paracaloptenus bolivari,Orthoptera,Caelifera,No
 Paracinema tricolor bisignata,Orthoptera,Caelifera,Wing rattle
@@ -219,7 +247,13 @@ Podisma amedegnatoae,Orthoptera,Caelifera,No
 Podisma dechambrei dechambrei,Orthoptera,Caelifera,No
 Podisma pedestris pedestris,Orthoptera,Caelifera,No
 Podismopsis keisti,Orthoptera,Caelifera,Stridulation
+Podismopsis styriaca,Orthoptera,Caelifera,Stridulation
 Poecilimon amissus,Orthoptera,Ensifera,Stridulation
+Poecilimon gracilis,Orthoptera,Ensifera,Stridulation
+Poecilimon intermedius,Orthoptera,Ensifera,No
+Poecilimon ornatus,Orthoptera,Ensifera,Stridulation
+Poecilimon schmidtii,Orthoptera,Ensifera,Stridulation
+Poecilimon ukrainicus,Orthoptera,Ensifera,Stridulation
 Polysarcus denticauda,Orthoptera,Ensifera,Stridulation
 Polysarcus scutatus,Orthoptera,Ensifera,Stridulation
 Prionotropis azami,Orthoptera,Caelifera,Unknown
@@ -227,6 +261,7 @@ Prionotropis rhodanica,Orthoptera,Caelifera,Unknown
 Pseudochorthippus montanus,Orthoptera,Caelifera,Stridulation
 Pseudochorthippus parallelus erythropus,Orthoptera,Caelifera,Stridulation
 Pseudochorthippus parallelus parallelus,Orthoptera,Caelifera,Stridulation
+Pseudochorthippus tatrae,Orthoptera,Caelifera,No
 Pseudomogoplistes squamiger,Orthoptera,Ensifera,No
 Pseudomogoplistes vicentae septentrionalis,Orthoptera,Ensifera,No
 Psophus stridulus stridulus,Orthoptera,Caelifera,Wing rattle
@@ -256,6 +291,7 @@ Stenobothrus crassipes,Orthoptera,Caelifera,Stridulation
 Stenobothrus cotticus,Orthoptera,Caelifera,Stridulation
 Stenobothrus eurasius,Orthoptera,Caelifera,Stridulation
 Stenobothrus festivus,Orthoptera,Caelifera,Stridulation
+Stenobothrus fischeri fischeri,Orthoptera,Caelifera,Stridulation
 Stenobothrus fischeri glaucescens,Orthoptera,Caelifera,Stridulation
 Stenobothrus grammicus,Orthoptera,Caelifera,Stridulation
 Stenobothrus lineatus lineatus,Orthoptera,Caelifera,Stridulation
@@ -267,6 +303,7 @@ Stethophyma grossum,Orthoptera,Caelifera,Stridulation
 Svercus palmetorum palmetorum,Orthoptera,Ensifera,Stridulation
 Tachycines asynamorus,Orthoptera,Ensifera,No
 Tessellana tessellata tessellata,Orthoptera,Ensifera,Stridulation
+Tessellana veyseli,Orthoptera,Ensifera,Stridulation
 Tetrix bipunctata,Orthoptera,Caelifera,No
 Tetrix bolivari,Orthoptera,Caelifera,No
 Tetrix ceperoi ceperoi,Orthoptera,Caelifera,No
@@ -277,20 +314,20 @@ Tetrix tenuicornis,Orthoptera,Caelifera,No
 Tetrix tuerki tuerki,Orthoptera,Caelifera,No
 Tetrix undulata gavoyi,Orthoptera,Caelifera,No
 Tetrix undulata undulata,Orthoptera,Caelifera,No
-Tettigettalna argentata,Hemiptera,Cicadomorpha,Cymbalization
-Tettigettula pygmea,Hemiptera,Cicadomorpha,Cymbalization
+Tettigettalna argentata,Hemiptera,Cicadomorpha,Timbalization
+Tettigettula pygmea,Hemiptera,Cicadomorpha,Timbalization
 Tettigonia cantans,Orthoptera,Ensifera,Stridulation
 Tettigonia caudata caudata,Orthoptera,Ensifera,Stridulation
 Tettigonia viridissima,Orthoptera,Ensifera,Stridulation
 Thyreonotus corsicus corsicus,Orthoptera,Ensifera,Stridulation
-Tibicina corsica corsica,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina corsica fairmairei,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina garricola,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina haematodes,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina nigronervosa,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina quadrisignata,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina steveni,Hemiptera,Cicadomorpha,Cymbalization
-Tibicina picta,Hemiptera,Cicadomorpha,Cymbalization
+Tibicina corsica corsica,Hemiptera,Cicadomorpha,Timbalization
+Tibicina corsica fairmairei,Hemiptera,Cicadomorpha,Timbalization
+Tibicina garricola,Hemiptera,Cicadomorpha,Timbalization
+Tibicina haematodes,Hemiptera,Cicadomorpha,Timbalization
+Tibicina nigronervosa,Hemiptera,Cicadomorpha,Timbalization
+Tibicina quadrisignata,Hemiptera,Cicadomorpha,Timbalization
+Tibicina steveni,Hemiptera,Cicadomorpha,Timbalization
+Tibicina picta,Hemiptera,Cicadomorpha,Timbalization
 Trigonidium cicindeloides,Orthoptera,Ensifera,No
 Troglophilus cavicola,Orthoptera,Ensifera,No
 Troglophilus neglectus,Orthoptera,Ensifera,No

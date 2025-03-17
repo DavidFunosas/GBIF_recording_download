@@ -17,7 +17,7 @@ already_downloaded_recordings <- list.files(recording_storage_path, recursive = 
 # Reading input CSVs
 country_codes <- read.csv(paste0(input_data_path, "Country_codes.csv"))
 
-target_species <- read.csv(paste0(input_data_path, "Orthopteran_and_cicada_species_in_temperate_Western_Europe.csv")) %>%
+target_species <- read.csv(paste0(input_data_path, "Orthopteran_and_cicada_species_in_North_Central_and_temperate_Western_Europe.csv")) %>%
   filter(!(sound %in% c("No", "Unknown"))) %>%
   rename("subspecies_name" = "species") %>%
   rowwise() %>%
