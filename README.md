@@ -9,7 +9,7 @@ Instructions:
 
 How to cite this code:
 
-Funosas, D. et al. (2025). ECOSoundSet: a ﬁnely annotated dataset for the automated acoustic identification of Orthoptera and Cicadidae in North, Central and temperate Western Europe. 2025.
+Funosas, D., Massol, E., Bas, Y., Schmidt, S., Arend, D., Gebhard, A., Barbaro, L., König, S., Font, R. C., Sannier, D., Deroussen, F., Sueur, J., Roesti, C., Trilar, T., Forstmeier, W., Roger, L., Matheu, E., Guzik, P., Barataud, J., Pelozuelo, L., Puissant, S., Mueller, S., Schuller, B., Montoya, J.M., Triantafyllopoulos, A., Cauchoix, M. (2025). ECOSoundSet: A finely annotated dataset for the automated acoustic identification of Orthoptera and Cicadidae in North, Central and temperate Western Europe (No. arXiv:2504.20776). arXiv. https://doi.org/10.48550/arXiv.2504.20776
 
 
 References:
