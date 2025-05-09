@@ -1,4 +1,5 @@
 library(dplyr)
+library(tidyr)
 library(data.table)
 library(NOOA)
 
@@ -50,10 +51,32 @@ filtered_GBIF_audio_data <- GBIF_audio_data %>%
                                TRUE ~ eventTime),
          eventDate = case_when(nchar(eventDate) >= 16 ~ substr(eventDate, 1, 10),
                                TRUE ~ eventDate),
-         recordist_date_species = paste0(rightsHolder, "_", eventDate, "_", species),
+         species_without_subspecies_epithet = species,
          species = case_when(taxonRank == "SUBSPECIES" ~ paste(species, infraspecificEpithet),
                              TRUE ~ species))
 
+# Removing potential duplicates across platforms, but keeping all entries within the same platform
+group_keys <- c("rightsHolder", "eventDate", "species_without_subspecies_epithet")
+
+filtered_GBIF_audio_data <- filtered_GBIF_audio_data %>%
+  group_by(across(all_of(group_keys))) %>%
+  filter(hosting_platform == min(hosting_platform)) %>%
+  ungroup()
+
+# Making sure that we only download recordings that are not already present in ECOSoundSet
+# (some of the contributors have expressed their intention of uploading their recordings to 
+# Xeno-canto at some point, so this is a necessary step to avoid duplicates)
+ECOSoundSet_recordings <- read.csv(paste0(input_data_path, "ECOSoundSet_recording_metadata.csv")) %>%
+  separate_rows(recorded_species, sep = ", ") %>%
+  rowwise() %>%
+  mutate(species_without_subspecies_epithet = paste(head(strsplit(recorded_species, " ")[[1]], 2), collapse = " "),
+    recordist_date_species = paste0(author_name, "_", recording_date, "_", species_without_subspecies_epithet))
+  
+filtered_GBIF_audio_data <- filtered_GBIF_audio_data %>%
+  mutate(recordist_date_species = paste0(rightsHolder, "_", eventDate, "_", species_without_subspecies_epithet)) %>%
+  filter(!recordist_date_species %in% ECOSoundSet_recordings$recordist_date_species)
+
+#-------------- Metadata reformatting and recording download ----------------
 n_recordings <- nrow(filtered_GBIF_audio_data)
 
 final_metadata <- data.frame()
