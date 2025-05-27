@@ -36,21 +36,20 @@ Arcyptera fusca,Orthoptera,Caelifera,Stridulation
 Arcyptera kheili,Orthoptera,Caelifera,Stridulation
 Arcyptera microptera carpentieri,Orthoptera,Caelifera,Stridulation
 Arcyptera microptera microptera,Orthoptera,Caelifera,Stridulation
-Baratia sari,Orthoptera,Ensifera,Unknown
+Baratia sari,Orthoptera,Ensifera,Stridulation
 Barbitistes constrictus,Orthoptera,Ensifera,Stridulation
 Barbitistes fischeri,Orthoptera,Ensifera,Stridulation
 Barbitistes obtusus,Orthoptera,Ensifera,Stridulation
 Barbitistes ocskayi,Orthoptera,Ensifera,Stridulation
 Barbitistes serricauda,Orthoptera,Ensifera,Stridulation
 Bicolorana bicolor bicolor,Orthoptera,Ensifera,Stridulation
-Bohemanella frigida,Orthoptera,Caelifera,Unknown
 Bryodemella tuberculata tuberculata,Orthoptera,Caelifera,Wing rattle
-Calephorus compressicornis,Orthoptera,Caelifera,Unknown
+Calephorus compressicornis,Orthoptera,Caelifera,Wing rattle
 Callicrania ramburii,Orthoptera,Ensifera,Stridulation
-Calliptamus barbarus barbarus,Orthoptera,Caelifera,Wing rattle
-Calliptamus italicus italicus,Orthoptera,Caelifera,Wing rattle
-Calliptamus siciliae,Orthoptera,Caelifera,Wing rattle
-Calliptamus wattenwylianus,Orthoptera,Caelifera,Wing rattle
+Calliptamus barbarus barbarus,Orthoptera,Caelifera,Mandibular sounds
+Calliptamus italicus italicus,Orthoptera,Caelifera,Mandibular sounds
+Calliptamus siciliae,Orthoptera,Caelifera,Mandibular sounds
+Calliptamus wattenwylianus,Orthoptera,Caelifera,Mandibular sounds
 Celes variabilis variabilis,Orthoptera,Caelifera,Unknown
 Chorthippus albomarginatus albomarginatus,Orthoptera,Caelifera,Stridulation
 Chorthippus alticola rammei,Orthoptera,Caelifera,Stridulation
@@ -180,7 +179,7 @@ Meconema meridionale,Orthoptera,Ensifera,Drumming
 Meconema thalassinum,Orthoptera,Ensifera,Drumming
 Mecostethus parapleurus parapleurus,Orthoptera,Caelifera,Unknown
 Melanogryllus desertus,Orthoptera,Ensifera,Stridulation
-Melanoplus frigidus frigidus,Orthoptera,Caelifera,No
+Melanoplus frigidus frigidus,Orthoptera,Caelifera,Unknown
 Metaplastes pulchripennis,Orthoptera,Ensifera,Stridulation
 Metrioptera brachyptera,Orthoptera,Ensifera,Stridulation
 Metrioptera buyssoni,Orthoptera,Ensifera,Stridulation
@@ -256,8 +255,8 @@ Poecilimon schmidtii,Orthoptera,Ensifera,Stridulation
 Poecilimon ukrainicus,Orthoptera,Ensifera,Stridulation
 Polysarcus denticauda,Orthoptera,Ensifera,Stridulation
 Polysarcus scutatus,Orthoptera,Ensifera,Stridulation
-Prionotropis azami,Orthoptera,Caelifera,Unknown
-Prionotropis rhodanica,Orthoptera,Caelifera,Unknown
+Prionotropis azami,Orthoptera,Caelifera,Stridulation
+Prionotropis rhodanica,Orthoptera,Caelifera,Stridulation
 Pseudochorthippus montanus,Orthoptera,Caelifera,Stridulation
 Pseudochorthippus parallelus erythropus,Orthoptera,Caelifera,Stridulation
 Pseudochorthippus parallelus parallelus,Orthoptera,Caelifera,Stridulation
@@ -282,10 +281,10 @@ Saga pedo,Orthoptera,Ensifera,No
 Schistocerca gregaria,Orthoptera,Caelifera,Unknown
 Sepiana sepium,Orthoptera,Ensifera,Stridulation
 Sorapagus catalaunicus,Orthoptera,Ensifera,Stridulation
-Sphingonotus caerulans,Orthoptera,Caelifera,Wing rattle
-Sphingonotus corsicus,Orthoptera,Caelifera,Wing rattle
-Sphingonotus rubescens rubescens,Orthoptera,Caelifera,Wing rattle
-Sphingonotus uvarovi,Orthoptera,Caelifera,Wing rattle
+Sphingonotus caerulans,Orthoptera,Caelifera,Stridulation
+Sphingonotus corsicus,Orthoptera,Caelifera,Stridulation
+Sphingonotus rubescens rubescens,Orthoptera,Caelifera,Stridulation
+Sphingonotus uvarovi,Orthoptera,Caelifera,Stridulation
 Stauroderus scalaris scalaris,Orthoptera,Caelifera,Stridulation
 Stenobothrus crassipes,Orthoptera,Caelifera,Stridulation
 Stenobothrus cotticus,Orthoptera,Caelifera,Stridulation
