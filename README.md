@@ -7,6 +7,12 @@ Instructions:
 2. Replace the file "Orthopteran_and_cicada_species_in_North_Central_and_temperate_Western_Europe.csv" in the "Data/Input/" folder with the list of species whose recordings you want to download. The original file contains a list of all sound-producing orthopteran and cicada species and subspecies present in North, Central and temperate Western Europe (Andorra, Austria, Belgium, Czechia, Denmark, Estonia, Finland, mainland France and Corsica, Germany, Ireland, Latvia, Lithuania, Luxembourg, Monaco, Netherlands, Norway, Poland, United Kingdom, Sweden and Switzerland).
 3. Run the "Downloading and file renaming.R" script in the "R scripts/" folder.
 
+
+Requirements:
+The code can be run on R ≥4.2. If the NOAA package cannot be installed through the standard install.packages command, the following command can be used instead:
+*install.packages(“https://cran.r-project.org/src/contrib/noaa_1.0.0.tar.gz”, repos = NULL, type = “source”)*
+
+
 How to cite this code:
 
 Funosas, D., Massol, E., Bas, Y., Schmidt, S., Arend, D., Gebhard, A., Barbaro, L., König, S., Font, R. C., Sannier, D., Deroussen, F., Sueur, J., Roesti, C., Trilar, T., Forstmeier, W., Roger, L., Matheu, E., Guzik, P., Barataud, J., Pelozuelo, L., Puissant, S., Mueller, S., Schuller, B., Montoya, J.M., Triantafyllopoulos, A., Cauchoix, M. (2025). ECOSoundSet: A finely annotated dataset for the automated acoustic identification of Orthoptera and Cicadidae in North, Central and temperate Western Europe (No. arXiv:2504.20776). arXiv. https://doi.org/10.48550/arXiv.2504.20776
