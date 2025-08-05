@@ -5,6 +5,25 @@ packageId="50c9509d-22c7-4a22-a47d-8c48425ef4a7"  system="http://gbif.org" scope
 xml:lang="en">
     <dataset>
         <alternateIdentifier>10.15468/ab3s5x</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-07-29+15%3A00%3A18+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-07-22+15%3A00%3A20+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-07-08+15%3A00%3A36+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-06-24+15%3A00%3A24+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-06-17+15%3A00%3A28+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-06-10+15%3A00%3A27+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-06-03+15%3A00%3A33+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-05-27+15%3A00%3A26+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-05-13+15%3A00%3A24+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-04-29+15%3A00%3A28+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-04-22+15%3A00%3A24+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-04-15+15%3A00%3A26+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-04-01+15%3A00%3A30+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-03-25+15%3A00%3A21+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-03-18+15%3A00%3A22+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-03-11+15%3A00%3A23+-0700&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-02-25+15%3A00%3A26+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-02-18+15%3A00%3A23+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
+        <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-02-11+15%3A00%3A21+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
         <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-01-14+15%3A00%3A20+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
         <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2025-01-07+15%3A00%3A25+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
         <alternateIdentifier>https://www.inaturalist.org/observations?created_d2=2024-12-31+15%3A00%3A20+-0800&amp;d1=1600-01-01&amp;license=CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade=research</alternateIdentifier>
@@ -264,7 +283,7 @@ xml:lang="en">
             <electronicMailAddress>help@inaturalist.org</electronicMailAddress>
         </metadataProvider>
         <pubDate>
-                2025-01-14
+                2025-07-29
         </pubDate>
         <language>ENGLISH</language>
         <abstract>
@@ -274,13 +293,13 @@ xml:lang="en">
         Observations included in this archive met the following requirements:
       </para><para>
         * Published under one of the following licenses or waivers:
-        1) http://creativecommons.org/publicdomain/zero/1.0/, 2) http://creativecommons.org/licenses/by/4.0/, 3) http://creativecommons.org/licenses/by-nc/4.0/
+        1) https://creativecommons.org/publicdomain/zero/1.0/, 2) https://creativecommons.org/licenses/by/4.0/, 3) https://creativecommons.org/licenses/by-nc/4.0/
       </para><para>
         * Achieved one of following iNaturalist quality grades: Research
       </para><para>
-        * Created on or before 2025-01-14 15:00:20 -0800
+        * Created on or before 2025-07-29 15:00:18 -0700
       </para><para>
-        You can view observations meeting these requirements at https://www.inaturalist.org/observations?created_d2&amp;#61;2025-01-14&amp;#43;15%3A00%3A20&amp;#43;-0800&amp;d1&amp;#61;1600-01-01&amp;license&amp;#61;CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade&amp;#61;research
+        You can view observations meeting these requirements at https://www.inaturalist.org/observations?created_d2&amp;#61;2025-07-29&amp;#43;15%3A00%3A18&amp;#43;-0700&amp;d1&amp;#61;1600-01-01&amp;license&amp;#61;CC0%2CCC-BY%2CCC-BY-NC&amp;quality_grade&amp;#61;research
       </para>
         </abstract>
         <intellectualRights>
@@ -305,10 +324,10 @@ xml:lang="en">
             <geographicCoverage>
                 <geographicDescription>Bounding Box</geographicDescription>
                 <boundingCoordinates>
-                    <westBoundingCoordinate>-180</westBoundingCoordinate>
-                    <eastBoundingCoordinate>179.99997</eastBoundingCoordinate>
+                    <westBoundingCoordinate>-179.999894</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
                     <northBoundingCoordinate>90</northBoundingCoordinate>
-                    <southBoundingCoordinate>-89.524088</southBoundingCoordinate>
+                    <southBoundingCoordinate>-85.168069</southBoundingCoordinate>
                 </boundingCoordinates>
             </geographicCoverage>
             <temporalCoverage>
@@ -318,7 +337,7 @@ xml:lang="en">
 </calendarDate>
                     </beginDate>
                     <endDate>
-                        <calendarDate>                2025-01-14
+                        <calendarDate>                2025-07-29
 </calendarDate>
                     </endDate>
                 </rangeOfDates>
@@ -365,8 +384,8 @@ xml:lang="en">
     <additionalMetadata>
         <metadata>
             <gbif>
-                <dateStamp>2025-02-05T14:51:39Z</dateStamp>
-                <citation>iNaturalist contributors, iNaturalist (2025). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2025-02-05.</citation>
+                <dateStamp>2025-08-05T12:57:41Z</dateStamp>
+                <citation>iNaturalist contributors, iNaturalist (2025). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2025-08-05.</citation>
                 <resourceLogoUrl>https://static.inaturalist.org/sites/1-logo.svg?1573071870</resourceLogoUrl>
             </gbif>
         </metadata>

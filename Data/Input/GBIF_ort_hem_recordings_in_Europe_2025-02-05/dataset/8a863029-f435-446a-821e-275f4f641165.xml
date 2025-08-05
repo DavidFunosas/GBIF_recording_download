@@ -28,7 +28,7 @@ xml:lang="en">
             <onlineUrl>https://observation.org</onlineUrl>
         </metadataProvider>
         <pubDate>
-                2025-01-28
+                2025-07-29
         </pubDate>
         <language>ENGLISH</language>
         <abstract>
@@ -233,8 +233,8 @@ xml:lang="en">
     <additionalMetadata>
         <metadata>
             <gbif>
-                <dateStamp>2025-02-05T14:52:08Z</dateStamp>
-                <citation>Observation.org (2025). Observation.org, Nature data from around the World. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2025-02-05.</citation>
+                <dateStamp>2025-08-05T12:57:41Z</dateStamp>
+                <citation>Observation.org (2025). Observation.org, Nature data from around the World. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2025-08-05.</citation>
                 <bibliography>
                 <citation></citation>
                 </bibliography>

@@ -138,7 +138,7 @@
     <field index="130" term="http://rs.tdwg.org/dwc/terms/identificationID"/>
     <field index="131" term="http://rs.tdwg.org/dwc/terms/verbatimIdentification"/>
     <field index="132" term="http://rs.tdwg.org/dwc/terms/identificationQualifier"/>
-    <field index="133" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/typeStatus"/>
+    <field index="133" term="http://rs.tdwg.org/dwc/terms/typeStatus"/>
     <field index="134" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/identifiedBy"/>
     <field index="135" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/identifiedByID"/>
     <field index="136" term="http://rs.tdwg.org/dwc/terms/dateIdentified"/>
@@ -193,41 +193,43 @@
     <field index="185" term="http://rs.gbif.org/terms/1.0/depthAccuracy"/>
     <field index="186" term="http://rs.gbif.org/terms/1.0/distanceFromCentroidInMeters"/>
     <field index="187" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/issue"/>
-    <field index="188" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/mediaType"/>
-    <field index="189" term="http://rs.gbif.org/terms/1.0/hasCoordinate"/>
-    <field index="190" term="http://rs.gbif.org/terms/1.0/hasGeospatialIssues"/>
-    <field index="191" term="http://rs.gbif.org/terms/1.0/taxonKey"/>
-    <field index="192" term="http://rs.gbif.org/terms/1.0/acceptedTaxonKey"/>
-    <field index="193" term="http://rs.gbif.org/terms/1.0/kingdomKey"/>
-    <field index="194" term="http://rs.gbif.org/terms/1.0/phylumKey"/>
-    <field index="195" term="http://rs.gbif.org/terms/1.0/classKey"/>
-    <field index="196" term="http://rs.gbif.org/terms/1.0/orderKey"/>
-    <field index="197" term="http://rs.gbif.org/terms/1.0/familyKey"/>
-    <field index="198" term="http://rs.gbif.org/terms/1.0/genusKey"/>
-    <field index="199" term="http://rs.gbif.org/terms/1.0/subgenusKey"/>
-    <field index="200" term="http://rs.gbif.org/terms/1.0/speciesKey"/>
-    <field index="201" term="http://rs.gbif.org/terms/1.0/species"/>
-    <field index="202" term="http://rs.gbif.org/terms/1.0/acceptedScientificName"/>
-    <field index="203" term="http://rs.gbif.org/terms/1.0/verbatimScientificName"/>
-    <field index="204" term="http://rs.gbif.org/terms/1.0/typifiedName"/>
-    <field index="205" term="http://rs.gbif.org/terms/1.0/protocol"/>
-    <field index="206" term="http://rs.gbif.org/terms/1.0/lastParsed"/>
-    <field index="207" term="http://rs.gbif.org/terms/1.0/lastCrawled"/>
-    <field index="208" term="http://rs.gbif.org/terms/1.0/repatriated"/>
-    <field index="209" term="http://rs.gbif.org/terms/1.0/relativeOrganismQuantity"/>
-    <field index="210" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/projectId"/>
-    <field index="211" term="http://rs.gbif.org/terms/1.0/isSequenced"/>
-    <field index="212" term="http://rs.gbif.org/terms/1.0/gbifRegion"/>
-    <field index="213" term="http://rs.gbif.org/terms/1.0/publishedByGbifRegion"/>
-    <field index="214" term="http://rs.gbif.org/terms/gadm/3.0/level0Gid"/>
-    <field index="215" term="http://rs.gbif.org/terms/gadm/3.0/level0Name"/>
-    <field index="216" term="http://rs.gbif.org/terms/gadm/3.0/level1Gid"/>
-    <field index="217" term="http://rs.gbif.org/terms/gadm/3.0/level1Name"/>
-    <field index="218" term="http://rs.gbif.org/terms/gadm/3.0/level2Gid"/>
-    <field index="219" term="http://rs.gbif.org/terms/gadm/3.0/level2Name"/>
-    <field index="220" term="http://rs.gbif.org/terms/gadm/3.0/level3Gid"/>
-    <field index="221" term="http://rs.gbif.org/terms/gadm/3.0/level3Name"/>
-    <field index="222" term="http://iucn.org/terms/iucnRedListCategory"/>
+    <field index="188" term="http://rs.gbif.org/terms/1.0/taxonomicIssue"/>
+    <field index="189" term="http://rs.gbif.org/terms/1.0/nonTaxonomicIssue"/>
+    <field index="190" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/mediaType"/>
+    <field index="191" term="http://rs.gbif.org/terms/1.0/hasCoordinate"/>
+    <field index="192" term="http://rs.gbif.org/terms/1.0/hasGeospatialIssues"/>
+    <field index="193" term="http://rs.gbif.org/terms/1.0/taxonKey"/>
+    <field index="194" term="http://rs.gbif.org/terms/1.0/acceptedTaxonKey"/>
+    <field index="195" term="http://rs.gbif.org/terms/1.0/kingdomKey"/>
+    <field index="196" term="http://rs.gbif.org/terms/1.0/phylumKey"/>
+    <field index="197" term="http://rs.gbif.org/terms/1.0/classKey"/>
+    <field index="198" term="http://rs.gbif.org/terms/1.0/orderKey"/>
+    <field index="199" term="http://rs.gbif.org/terms/1.0/familyKey"/>
+    <field index="200" term="http://rs.gbif.org/terms/1.0/genusKey"/>
+    <field index="201" term="http://rs.gbif.org/terms/1.0/subgenusKey"/>
+    <field index="202" term="http://rs.gbif.org/terms/1.0/speciesKey"/>
+    <field index="203" term="http://rs.gbif.org/terms/1.0/species"/>
+    <field index="204" term="http://rs.gbif.org/terms/1.0/acceptedScientificName"/>
+    <field index="205" term="http://rs.gbif.org/terms/1.0/verbatimScientificName"/>
+    <field index="206" term="http://rs.gbif.org/terms/1.0/typifiedName"/>
+    <field index="207" term="http://rs.gbif.org/terms/1.0/protocol"/>
+    <field index="208" term="http://rs.gbif.org/terms/1.0/lastParsed"/>
+    <field index="209" term="http://rs.gbif.org/terms/1.0/lastCrawled"/>
+    <field index="210" term="http://rs.gbif.org/terms/1.0/repatriated"/>
+    <field index="211" term="http://rs.gbif.org/terms/1.0/relativeOrganismQuantity"/>
+    <field index="212" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/projectId"/>
+    <field index="213" term="http://rs.gbif.org/terms/1.0/isSequenced"/>
+    <field index="214" term="http://rs.gbif.org/terms/1.0/gbifRegion"/>
+    <field index="215" term="http://rs.gbif.org/terms/1.0/publishedByGbifRegion"/>
+    <field index="216" term="http://rs.gbif.org/terms/gadm/3.0/level0Gid"/>
+    <field index="217" term="http://rs.gbif.org/terms/gadm/3.0/level0Name"/>
+    <field index="218" term="http://rs.gbif.org/terms/gadm/3.0/level1Gid"/>
+    <field index="219" term="http://rs.gbif.org/terms/gadm/3.0/level1Name"/>
+    <field index="220" term="http://rs.gbif.org/terms/gadm/3.0/level2Gid"/>
+    <field index="221" term="http://rs.gbif.org/terms/gadm/3.0/level2Name"/>
+    <field index="222" term="http://rs.gbif.org/terms/gadm/3.0/level3Gid"/>
+    <field index="223" term="http://rs.gbif.org/terms/gadm/3.0/level3Name"/>
+    <field index="224" term="http://iucn.org/terms/iucnRedListCategory"/>
   </core>
   <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Occurrence">
     <files>

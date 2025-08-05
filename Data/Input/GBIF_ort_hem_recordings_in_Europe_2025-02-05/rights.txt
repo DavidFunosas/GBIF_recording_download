@@ -16,8 +16,8 @@ Dataset: Système d'Information sur la Nature et les Paysages d'Ile de France - 
 Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
 Dataset: Observation.org, Nature data from around the World 
 Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
-Dataset: Artportalen 
-Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Academy of Natural Sciences Entomology Collection – OrthopNet 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
 Dataset: ZFMK DORSA 
 Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
 Dataset: IBF Monitoring of Orthoptera 
