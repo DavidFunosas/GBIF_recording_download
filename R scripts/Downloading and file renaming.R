@@ -1,7 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(data.table)
-library(NOOA)
+library(noaa)
 
 # File path declaration 
 input_data_path <- "../Data/Input/"
