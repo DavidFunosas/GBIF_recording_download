@@ -1,5 +1,5 @@
 # GBIF recording download
-Code to download all recordings uploaded on Xeno-canto, iNaturalist, observation.org, ZFMK and MinIO and to extract the corresponding metadata based on GBIF results (GBIF.org, 2025). To avoid duplicate downloads, the code ensures that recordings are not redownloaded if an entry from the same species, date, and author has already been retrieved from another platform. 
+Code to download all recordings uploaded on Xeno-canto, iNaturalist, observation.org, SMSB and MinIO and to extract the corresponding metadata based on GBIF results (GBIF.org, 2025). To avoid duplicate downloads, the code ensures that recordings are not redownloaded if an entry from the same species, date, and author has already been retrieved from another platform. 
 
 &nbsp;
 
