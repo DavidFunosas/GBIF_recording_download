@@ -134,7 +134,7 @@ for (i in 1:n_recordings) {
     }
   }
   
-  if (is.na(current_recording$eventDate) | current_recording$eventDate == "") {
+  if (is.na(current_recording$eventDate) | current_recording$eventDate == "" | nchar(current_recording$eventDate) == 4) {
     recording_date_code <- "XXXXXXXX"
     recording_date <- ""
   } else {
