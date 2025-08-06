@@ -16,7 +16,9 @@ options(timeout = 120)
 already_downloaded_recordings <- list.files(recording_storage_path, recursive = TRUE, include.dirs = FALSE)
 
 # Reading input CSVs
-country_codes <- read.csv(paste0(input_data_path, "Country_codes.csv"))
+country_codes <- read.csv(paste0(input_data_path, "Country_codes.csv")) %>%
+  mutate(Code = case_when(Name == "Namibia" ~ "NA", # R reads the "NA" country code as a NA value
+                          TRUE ~ Code))
 
 target_species <- read.csv(paste0(input_data_path, "Orthopteran_and_cicada_species_in_North_Central_and_temperate_Western_Europe.csv")) %>%
   filter(!(sound %in% c("No", "Unknown"))) %>%
