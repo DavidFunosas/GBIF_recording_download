@@ -1,7 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(data.table)
-library(noaa)
+library(NOOA)
 
 # File path declaration 
 input_data_path <- "../Data/Input/"
@@ -134,7 +134,7 @@ for (i in 1:n_recordings) {
     }
   }
   
-  if (is.na(current_recording$eventDate) | current_recording$eventDate == "" | nchar(current_recording$eventDate) == 4) {
+  if (is.na(current_recording$eventDate) | current_recording$eventDate == "" | nchar(current_recording$eventDate) %in% c(4, 7)) {
     recording_date_code <- "XXXXXXXX"
     recording_date <- ""
   } else {
