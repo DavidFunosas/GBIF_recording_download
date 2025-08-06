@@ -190,7 +190,7 @@ for (i in 1:n_recordings) {
     
     original_file_name_array <- strsplit(current_recording$identifier, "/")[[1]]
     original_file_name <- strsplit(original_file_name_array[length(original_file_name_array)], "\\?")[[1]][1]
-    file_extension <- paste0(".", strsplit(original_file_name, "\\.")[[1]][2])
+    file_extension <- paste0(".", tail(strsplit(original_file_name, "\\.")[[1]], 1))
     
     # Defining output folder hierarchy
     new_location_folder_base_path <- paste0(recording_storage_path, "/", tax_group, "/")
