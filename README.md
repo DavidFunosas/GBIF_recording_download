@@ -15,6 +15,7 @@ Requirements:
 The code can be run on R ≥4.2. If the NOOA package cannot be installed through the standard install.packages command, the following commands can be used instead:
 
 *install.packages("remotes")*
+
 *remotes::install_github("constantin345/NOOA")*
 
 &nbsp;
