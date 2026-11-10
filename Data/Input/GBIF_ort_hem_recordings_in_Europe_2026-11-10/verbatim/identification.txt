@@ -1,0 +1,51 @@
+gbifid	datasetkey	identificationid	identifiedby	dateidentified	identificationreferences	identificationremarks	identificationqualifier	identificationverificationstatus	typestatus	taxonid	taxonconceptid	scientificname	scientificnameid	namepublishedin	namepublishedinyear	namepublishedinid	nameaccordingto	nameaccordingtoid	acceptednameusage	parentnameusage	originalnameusage	higherclassification	kingdom	phylum	class	`order`	family	genus	subgenus	specificepithet	infraspecificepithet	taxonrank	verbatimtaxonrank	scientificnameauthorship	vernacularname	nomenclaturalcode	taxonomicstatus	nomenclaturalstatus	taxonremarks
+5163704517	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704508	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704900	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704903	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704503	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704885	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-06		Mogoplistine						Mogoplistinae																											
+5163704519	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		big gray Pseudophylline						Pseudophyllinae																											
+5163704886	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-06		another Grylline						Gryllinae																											
+5163704507	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		This is probably an Eneopt						Eneopterinae																											
+5163704511	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		conehead						Conocephalinae																											
+5163704376	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-08		Nemobius						Nemobius																						Serville, 1839					
+5163704373	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-08		Oecanthus rufescens						Oecanthus rufescens																						Serville, 1838					
+5163704374	20524cf7-66f8-49d2-a274-102e1090e502					that's species A						Orthoptera																											
+5163704386	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-08		slower pulse rate Grylline						Gryllinae																											
+5163704502	20524cf7-66f8-49d2-a274-102e1090e502					he's a long Hapithus like thing						Orthoptera																											
+5163704506	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		this is probably a Phalangopsine						Phalangopsinae																											
+5163704896	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		Nemobius						Nemobius																						Serville, 1839					
+5163704908	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-01		Last is a Grylline, file 137						Gryllinae																											
+5163704904	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704902	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704509	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704907	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704909	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-01		Cycloptilum						Cycloptilum																						Scudder, 1869					
+5163704891	20524cf7-66f8-49d2-a274-102e1090e502					Grylline						Orthoptera																											
+5163704883	20524cf7-66f8-49d2-a274-102e1090e502					going to label this species below the road speices A						Orthoptera																											
+5163704390	20524cf7-66f8-49d2-a274-102e1090e502					beepers						Orthoptera																											
+5163704906	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-01		little Mogoplistine. Could be it.						Mogoplistinae																											
+5163704899	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		might be a Tremellia						Tremellia																											
+5163704378	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-08		Grylline, double pulse; gonna call them A						Gryllinae																											
+5163704512	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		there's another						Conocephalinae																											
+5163704384	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704884	20524cf7-66f8-49d2-a274-102e1090e502					alternating males						Orthoptera																											
+5163704890	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704518	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		he's an Anurogryllus						Anurogryllus																						Saussure, 1877					
+5163704380	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-08		Grylline, steady loud chirper, faster pulse						Gryllinae																											
+5163704510	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704895	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		Oceanicus						Teleogryllus (Teleogryllus) oceanicus																											
+5163704905	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		Teleo.						Teleogryllus																						Chopard, 1961					
+5163704901	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		sounds like a Grylline						Gryllinae																											
+5163704893	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-05		I think there's a Grylline here						Gryllinae																											
+5163704513	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		that "di-dit" one is probably the most common Phalangopsine along the trail						Phalangopsinae																											
+5163704504	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704894	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704898	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704897	20524cf7-66f8-49d2-a274-102e1090e502											Orthoptera																											
+5163704520	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		Seems to be an Eneopterine or I should say a Podoscirtine						Podoscirtinae																											
+5163704505	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		green Neoconocephalus like thing						Neoconocephalus																						Karny, 1907					
+5163704892	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-03		Mogoplistine						Mogoplistinae																											
+5163704887	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1983-03-07		I think it's a Tremellia						Tremellia																											
+5163704515	20524cf7-66f8-49d2-a274-102e1090e502		Dan Otte	1991-01		that might also be the Anurogryllus						Anurogryllus																						Saussure, 1877					

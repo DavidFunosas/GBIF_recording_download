@@ -1,0 +1,51 @@
+gbifid	datasetkey	measurementid	measurementtype	measurementvalue	measurementaccuracy	measurementunit	measurementdetermineddate	measurementdeterminedby	measurementmethod	measurementremarks
+1315974980	cb6e66f1-3056-404d-a341-bb856762c57c		Activity	s						
+3004149771	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004149771	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+3004163767	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004163767	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Common						
+3004143777	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004142760	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004142760	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Occasional						
+3004164744	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004164744	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+3004148772	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004148772	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Rare						
+3004140790	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004140790	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Abundant						
+3004317318	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Basis of observation	sound recording						
+3004151759	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004151759	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+3004145761	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004145761	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Abundant						
+3004141774	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Full list						
+3004141774	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+4927405000	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+3004439773	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927442649	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927442649	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+4927410101	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927410101	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+4927414050	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927414050	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+3004152739	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004152739	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Rare						
+3004360754	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Abundant						
+3004158740	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004158740	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Occasional						
+3004369764	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004369764	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+3004234763	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+3004234763	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+3004570046	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Rare						
+3004572083	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Rare						
+3004303101	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Occasional						
+3004363509	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+3004335062	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Abundance	Frequent						
+4538289153	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4538289153	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+3004148515	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		List type	Selected species						
+4927430320	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927430320	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						
+4927398006	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Sex	Male						
+4927398006	f1c4df18-12d6-40cb-ab51-5bb0d7f08d6e		Transformation stage	Adult						

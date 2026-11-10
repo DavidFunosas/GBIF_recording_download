@@ -138,7 +138,7 @@
     <field index="130" term="http://rs.tdwg.org/dwc/terms/identificationID"/>
     <field index="131" term="http://rs.tdwg.org/dwc/terms/verbatimIdentification"/>
     <field index="132" term="http://rs.tdwg.org/dwc/terms/identificationQualifier"/>
-    <field index="133" term="http://rs.tdwg.org/dwc/terms/typeStatus"/>
+    <field index="133" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/typeStatus"/>
     <field index="134" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/identifiedBy"/>
     <field index="135" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/identifiedByID"/>
     <field index="136" term="http://rs.tdwg.org/dwc/terms/dateIdentified"/>
@@ -193,7 +193,7 @@
     <field index="185" term="http://rs.gbif.org/terms/1.0/depthAccuracy"/>
     <field index="186" term="http://rs.gbif.org/terms/1.0/distanceFromCentroidInMeters"/>
     <field index="187" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/issue"/>
-    <field index="188" term="http://rs.gbif.org/terms/1.0/taxonomicIssue"/>
+    <field index="188" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/taxonomicIssue"/>
     <field index="189" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/nonTaxonomicIssue"/>
     <field index="190" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/mediaType"/>
     <field index="191" term="http://rs.gbif.org/terms/1.0/hasCoordinate"/>
@@ -222,10 +222,10 @@
     <field index="214" term="http://rs.gbif.org/terms/1.0/isInvasive"/>
     <field index="215" term="http://rs.gbif.org/terms/1.0/repatriated"/>
     <field index="216" term="http://rs.gbif.org/terms/1.0/relativeOrganismQuantity"/>
-    <field index="217" delimitedBy=";" term="http://rs.gbif.org/terms/1.0/projectId"/>
-    <field index="218" term="http://rs.gbif.org/terms/1.0/isSequenced"/>
-    <field index="219" term="http://rs.gbif.org/terms/1.0/gbifRegion"/>
-    <field index="220" term="http://rs.gbif.org/terms/1.0/publishedByGbifRegion"/>
+    <field index="217" term="http://rs.gbif.org/terms/1.0/isSequenced"/>
+    <field index="218" term="http://rs.gbif.org/terms/1.0/gbifRegion"/>
+    <field index="219" term="http://rs.gbif.org/terms/1.0/publishedByGbifRegion"/>
+    <field index="220" delimitedBy=";" term="http://rs.tdwg.org/dwc/terms/projectID"/>
     <field index="221" term="http://rs.gbif.org/terms/gadm/3.0/level0Gid"/>
     <field index="222" term="http://rs.gbif.org/terms/gadm/3.0/level0Name"/>
     <field index="223" term="http://rs.gbif.org/terms/gadm/3.0/level1Gid"/>
@@ -456,5 +456,104 @@
     <field index="12" term="http://purl.org/dc/terms/publisher"/>
     <field index="13" term="http://purl.org/dc/terms/license"/>
     <field index="14" term="http://purl.org/dc/terms/rightsHolder"/>
+  </extension>
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Identification">
+    <files>
+      <location>verbatim/identification.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="0" term="http://rs.gbif.org/terms/1.0/gbifID"/>
+    <field index="1" term="http://rs.gbif.org/terms/1.0/datasetKey"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/identificationID"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/identifiedBy"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/dateIdentified"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/identificationReferences"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/identificationRemarks"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/identificationQualifier"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/identificationVerificationStatus"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/typeStatus"/>
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+    <field index="11" term="http://rs.tdwg.org/dwc/terms/taxonConceptID"/>
+    <field index="12" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="13" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
+    <field index="14" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/namePublishedInID"/>
+    <field index="17" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
+    <field index="18" term="http://rs.tdwg.org/dwc/terms/nameAccordingToID"/>
+    <field index="19" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsage"/>
+    <field index="20" term="http://rs.tdwg.org/dwc/terms/parentNameUsage"/>
+    <field index="21" term="http://rs.tdwg.org/dwc/terms/originalNameUsage"/>
+    <field index="22" term="http://rs.tdwg.org/dwc/terms/higherClassification"/>
+    <field index="23" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+    <field index="24" term="http://rs.tdwg.org/dwc/terms/phylum"/>
+    <field index="25" term="http://rs.tdwg.org/dwc/terms/class"/>
+    <field index="26" term="http://rs.tdwg.org/dwc/terms/order"/>
+    <field index="27" term="http://rs.tdwg.org/dwc/terms/family"/>
+    <field index="28" term="http://rs.tdwg.org/dwc/terms/genus"/>
+    <field index="29" term="http://rs.tdwg.org/dwc/terms/subgenus"/>
+    <field index="30" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>
+    <field index="31" term="http://rs.tdwg.org/dwc/terms/infraspecificEpithet"/>
+    <field index="32" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="33" term="http://rs.tdwg.org/dwc/terms/verbatimTaxonRank"/>
+    <field index="34" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
+    <field index="35" term="http://rs.tdwg.org/dwc/terms/vernacularName"/>
+    <field index="36" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode"/>
+    <field index="37" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
+    <field index="38" term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
+    <field index="39" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+  </extension>
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Identifier">
+    <files>
+      <location>verbatim/identifier.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="0" term="http://rs.gbif.org/terms/1.0/gbifID"/>
+    <field index="1" term="http://rs.gbif.org/terms/1.0/datasetKey"/>
+    <field index="2" term="http://purl.org/dc/terms/identifier"/>
+    <field index="3" term="http://purl.org/dc/terms/title"/>
+    <field index="4" term="http://purl.org/dc/terms/subject"/>
+    <field index="5" term="http://purl.org/dc/terms/format"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
+  </extension>
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Multimedia">
+    <files>
+      <location>verbatim/multimedia.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="0" term="http://rs.gbif.org/terms/1.0/gbifID"/>
+    <field index="1" term="http://rs.gbif.org/terms/1.0/datasetKey"/>
+    <field index="2" term="http://purl.org/dc/terms/type"/>
+    <field index="3" term="http://purl.org/dc/terms/format"/>
+    <field index="4" term="http://purl.org/dc/terms/identifier"/>
+    <field index="5" term="http://purl.org/dc/terms/references"/>
+    <field index="6" term="http://purl.org/dc/terms/title"/>
+    <field index="7" term="http://purl.org/dc/terms/description"/>
+    <field index="8" term="http://purl.org/dc/terms/created"/>
+    <field index="9" term="http://purl.org/dc/terms/creator"/>
+    <field index="10" term="http://purl.org/dc/terms/contributor"/>
+    <field index="11" term="http://purl.org/dc/terms/publisher"/>
+    <field index="12" term="http://purl.org/dc/terms/audience"/>
+    <field index="13" term="http://purl.org/dc/terms/source"/>
+    <field index="14" term="http://purl.org/dc/terms/license"/>
+    <field index="15" term="http://purl.org/dc/terms/rightsHolder"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
+  </extension>
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/MeasurementOrFact">
+    <files>
+      <location>verbatim/measurementorfact.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="0" term="http://rs.gbif.org/terms/1.0/gbifID"/>
+    <field index="1" term="http://rs.gbif.org/terms/1.0/datasetKey"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/measurementID"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/measurementType"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/measurementValue"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/measurementAccuracy"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/measurementUnit"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/measurementDeterminedDate"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/measurementDeterminedBy"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/measurementMethod"/>
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/measurementRemarks"/>
   </extension>
 </archive>

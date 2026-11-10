@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
-packageId="9de3b887-5642-4483-a2c4-319786b3cde2"  system="http://gbif.org" scope="system"
+packageId="a5c2e18e-43cb-4adc-b544-803d0f655538"  system="http://gbif.org" scope="system"
 xml:lang="en">
     <dataset>
-        <alternateIdentifier>10.15468/mgpopg</alternateIdentifier>
-        <alternateIdentifier>9de3b887-5642-4483-a2c4-319786b3cde2</alternateIdentifier>
-        <shortName>CETTIA_115</shortName>
-        <title>Système d&apos;Information sur la Nature et les Paysages d&apos;Ile de France - Données du/de la naturaliste Houpert Sylvain provenant de la base de donnée du SINP Île-de-France CETTIA</title>
+        <alternateIdentifier>10.15468/vk2t0i</alternateIdentifier>
+        <alternateIdentifier>a5c2e18e-43cb-4adc-b544-803d0f655538</alternateIdentifier>
+        <shortName>CETTIA_23</shortName>
+        <title>Système d&apos;Information sur la Nature et les Paysages d&apos;Ile de France - Etude faunistique d&apos;une zone humide à Château-Landon - 77</title>
         <creator>
             <individualName>
                 <surName>Inventaire National du Patrimoine Naturel</surName>
@@ -40,7 +40,7 @@ xml:lang="en">
             <role>DISTRIBUTOR</role>
         </associatedParty>
         <pubDate>
-                2018-04-03
+                2018-02-01
         </pubDate>
         <language>FRENCH</language>
         <abstract>
@@ -60,27 +60,27 @@ xml:lang="en">
         </licensed>
         <distribution scope="document">
             <online>
-                <url function="download">https://apt-inpn.gbif.fr/dataset/68F1BB44-9AFD-5E12-E053-2614A8C05EDF</url>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/6401ACBF-5C99-646B-E053-2614A8C05B99</url>
             </online>
         </distribution>
         <coverage>
             <geographicCoverage>
                 <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
                 <boundingCoordinates>
-                    <westBoundingCoordinate>1.64159</westBoundingCoordinate>
-                    <eastBoundingCoordinate>3.4033</eastBoundingCoordinate>
-                    <northBoundingCoordinate>49.02104</northBoundingCoordinate>
-                    <southBoundingCoordinate>48.2981</southBoundingCoordinate>
+                    <westBoundingCoordinate>2.66374</westBoundingCoordinate>
+                    <eastBoundingCoordinate>2.66374</eastBoundingCoordinate>
+                    <northBoundingCoordinate>48.16488</northBoundingCoordinate>
+                    <southBoundingCoordinate>48.16488</southBoundingCoordinate>
                 </boundingCoordinates>
             </geographicCoverage>
             <temporalCoverage>
                 <rangeOfDates>
                     <beginDate>
-                        <calendarDate>                2008-07-27
+                        <calendarDate>                2015-05-12
 </calendarDate>
                     </beginDate>
                     <endDate>
-                        <calendarDate>                2017-08-06
+                        <calendarDate>                2016-04-15
 </calendarDate>
                     </endDate>
                 </rangeOfDates>
@@ -100,19 +100,7 @@ xml:lang="en">
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
-                    <taxonRankValue>Araneae</taxonRankValue>
-                </taxonomicClassification>
-                <taxonomicClassification>
-                    <taxonRankName>Order</taxonRankName>
                     <taxonRankValue>Caprimulgiformes</taxonRankValue>
-                </taxonomicClassification>
-                <taxonomicClassification>
-                    <taxonRankName>Order</taxonRankName>
-                    <taxonRankValue>Carnivora</taxonRankValue>
-                </taxonomicClassification>
-                <taxonomicClassification>
-                    <taxonRankName>Order</taxonRankName>
-                    <taxonRankValue>Cetartiodactyla</taxonRankValue>
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
@@ -128,7 +116,19 @@ xml:lang="en">
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
                     <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cycloneritida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ellobiida</taxonRankValue>
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
@@ -140,7 +140,19 @@ xml:lang="en">
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
                     <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Littorinimorpha</taxonRankValue>
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
@@ -160,11 +172,15 @@ xml:lang="en">
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
-                    <taxonRankValue>Phoenicopteriformes</taxonRankValue>
+                    <taxonRankValue>Piciformes</taxonRankValue>
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
-                    <taxonRankValue>Piciformes</taxonRankValue>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphaeriida</taxonRankValue>
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
@@ -172,7 +188,15 @@ xml:lang="en">
                 </taxonomicClassification>
                 <taxonomicClassification>
                     <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Stylommatophora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
                     <taxonRankValue>Urodela</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>None</taxonRankValue>
                 </taxonomicClassification>
             </taxonomicCoverage>
         </coverage>
@@ -221,8 +245,8 @@ xml:lang="en">
     <additionalMetadata>
         <metadata>
             <gbif>
-                <dateStamp>2026-02-11T09:01:42Z</dateStamp>
-                <citation>Inventaire National du Patrimoine Naturel (2018). Système d&apos;Information sur la Nature et les Paysages d&apos;Ile de France - Données du/de la naturaliste Houpert Sylvain provenant de la base de donnée du SINP Île-de-France CETTIA. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/mgpopg accessed via GBIF.org on 2026-02-11.</citation>
+                <dateStamp>2026-11-10T13:15:30Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2018). Système d&apos;Information sur la Nature et les Paysages d&apos;Ile de France - Etude faunistique d&apos;une zone humide à Château-Landon - 77. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/vk2t0i accessed via GBIF.org on 2026-11-10.</citation>
             </gbif>
         </metadata>
     </additionalMetadata>
